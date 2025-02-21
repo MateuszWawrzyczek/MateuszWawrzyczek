@@ -20,6 +20,11 @@ I'm AGH Student with a major in Applied Computer Science.
 - [Rasterization of graphics](https://github.com/MateuszWawrzyczek/WFiIS-Grafika-Projekt):
   A program for rasterizing vector graphics. This program loads finished works created using another program and allows them to be edited.
 
+## 📫 Contact
+
+You can write to me:
+- e-mail: mat.warzyczek@gmail.com
+
 
 <!--
 **MateuszWawrzyczek/MateuszWawrzyczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
