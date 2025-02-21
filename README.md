@@ -4,7 +4,7 @@ I'm AGH Student with a major in Applied Computer Science.
 
 ## 🛠️ Technologies and Skills
 
-- **Programming Languages::** C, C++, Python, Java
+- **Programming Languages:** C, C++, Python, Java
 - **Frameworks:** .Net
 - **Databases:** PostgreSQL
 - **Other:** Git
