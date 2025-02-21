@@ -17,7 +17,7 @@ I'm AGH Student with a major in Applied Computer Science.
   A program for managing timetables and driver teams.
 - [Security System](https://github.com/MateuszWawrzyczek/Security-System):
   A comprehensive security and access management system designed to help enterprises effectively control and monitor their facilities, users and security resources. Integrates user authentication.
-- [rasterization of graphics](https://github.com/MateuszWawrzyczek/WFiIS-Grafika-Projekt):
+- [Rasterization of graphics](https://github.com/MateuszWawrzyczek/WFiIS-Grafika-Projekt):
   A program for rasterizing vector graphics. This program loads finished works created using another program and allows them to be edited.
 
 
